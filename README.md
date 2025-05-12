@@ -9,7 +9,7 @@ This is NOT an official fix, this was entirely made by me and anyone trying to s
 # FAQ
 
 ## What does it do?
-This fixes Roblox's new detection system for external UIs that were created by the client. There were no reports of incompatibility with any other script at all except from those that utilize **Gamesneeze** UI library
+This fixes Roblox's new detection system for external UIs that were created by the client. There were no reports of incompatibility with any other script at all except from those that utilize **Gamesneeze** UI library.
 
 ## Why am I doing it?
 To avoid people yapping about NA giving them warning and/or bans.
